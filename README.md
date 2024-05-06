@@ -1,4 +1,4 @@
-<img src="./crocodile.png" width = "200" height = "200" align = "left" />
+<img src="./crocodile.png" width = "200" height = "200"/>
 
 ## Main Page
 114
