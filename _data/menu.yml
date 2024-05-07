@@ -1,4 +1,4 @@
-- title: <img src="./crocodile.png" width = "200" height = "200"/>
+- title: "<img src="./crocodile.png" width = "200" height = "200"/>"
 entries:
   - title: me
     entries:
