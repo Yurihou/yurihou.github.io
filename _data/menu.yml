@@ -1,8 +1,10 @@
+<img src="./crocodile.png" width = "200" height = "200"/>
+
 entries:
   - title: me
     entries:
       - title: email
-        url: yurihou@qq.com
+        url: mailto:yurihou@qq.com
       - title: github
         url: https://github.com/Yurihou/
       - title: QRZ.com
