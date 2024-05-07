@@ -3,5 +3,5 @@ remote_theme: riggraz/no-style-please
 favicon: "crocodile.png"
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "Home" # customize text for homepage link in post layout
