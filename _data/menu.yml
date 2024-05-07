@@ -1,5 +1,5 @@
 entries:
-  - title: "<img src="./crocodile.png" width = "200" height = "200"/>"
+  - title: "<a><img src="./crocodile.png" width = "200" height = "200"/><\a>"
 entries:
   - title: me
     entries:
