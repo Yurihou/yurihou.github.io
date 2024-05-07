@@ -1,3 +1,6 @@
 title: Yurihou BH9DWE
 remote_theme: riggraz/no-style-please
 favicon: "crocodile.png"
+
+theme_config:
+  back_home_text: "Home" # customize text for homepage link in post layout
