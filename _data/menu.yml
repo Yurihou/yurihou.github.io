@@ -1,8 +1,12 @@
 entries:
-  - title: me
+  - title: About me
     entries:
+      - title: Profile
+        url: profile.md
       - title: E-mail
         url: mailto:yurihou@qq.com
+      - title: Bilibili
+        url: https://space.bilibili.com/401083449
       - title: GitHub
         url: https://github.com/Yurihou/
       - title: QRZ.com
