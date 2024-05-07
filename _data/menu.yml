@@ -2,7 +2,7 @@ entries:
   - title: About me
     entries:
       - title: Profile
-        url: profile.md
+        url: profile
       - title: E-mail
         url: mailto:yurihou@qq.com
       - title: Bilibili
