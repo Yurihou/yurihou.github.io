@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profile
+title: 个人简介 Profile
 ---
 
 <img src="./crocodile.png" width = "200" height = "200"/>
