@@ -21,3 +21,14 @@ entries:
         url: https://github.com/Yurihou/
       - title: QRZ.com
         url: https://www.qrz.com/db/BH9DWE
+  - title: 友情链接 Friends
+    entries:
+      - title: 清华大学业余电台 Amateur Radio of Tsinghua Univ., BY1QH
+        url: https://www.qrz.com/db/BY1QH
+      - title: 北京航空航天大学业余电台 Amateur radio of BUAA, BY1HT
+        url: https://www.qrz.com/db/BY1HT
+      - title: 涵无 Kannmu
+        url: https://kannmu.github.io/
+      - title: Doublehan07
+        url: https://doublehan07.github.io/
+      
