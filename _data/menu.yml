@@ -1,11 +1,17 @@
 entries:
-  - title: Ham's Useful Websites
+  - title: 文章 Posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: 更多文章 More...
+      show_more_url: archive
+  - title: HAM 实用网站 HAM's Useful Websites
     url: hamtools
-  - title: Ham's Cyber Temple
+  - title: HAM赛博祠堂 Ham's Cyber Temple
     url: temple
-  - title: About me
+  - title: 个人信息 About me
     entries:
-      - title: Profile
+      - title: 个人简介 Profile
         url: profile
       - title: E-mail
         url: mailto:yurihou@qq.com
