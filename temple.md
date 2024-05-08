@@ -5,7 +5,7 @@ title: Ham's Cyber Temple
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_uv">Number of visitors: <span id="busuanzi_value_site_uv"></span></span>
 
-[![/pictures/stc_incense_burner.png](/pictures/stc_incense_burner.png)](https://www.stcai.com/xpsc)
+<!--[![/pictures/stc_incense_burner.png](/pictures/stc_incense_burner.png)](https://www.stcai.com/xpsc)-->
 - God of Antenna: [BD7QBG](https://www.qrz.com/db/BD7QBG)
 - God of -5000: [BG7XWF](https://www.qrz.com/db/BG7XWF)
 - God of area outside Karman line: [BI4KZZ](https://www.qrz.com/db/BI4KZZ)
