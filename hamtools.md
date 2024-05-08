@@ -14,7 +14,7 @@ title: Ham's Useful Websites
   - [QRZ.com](https://www.qrz.com/): An useful online HAM database. Providing a web page for each HAM in this site, and we can find some information about the callsign we search for. However, Whether the information is available depends on HAMs themselves, some HAMs didn't registered in QRZ.com and some registered but didn't put a word in it. There is also a [国区特供 QRZ.cn](http://www.qrz.cn/) in and for Chinese but I don't want to use it.
 - After operation
   - [Logbook of the World](https://lotw.arrl.org/): ARRL's official logbook. //Register guide will be updated later.
-  - [QRZ.com](https://www.qrz.com/): QRZ.com is not only a database but also an useful online logbook. //Register guide will be updated later.
+  - [QRZ.com](https://www.qrz.com/): QRZ.com is not only a database but also an useful online logbook. [Register guide](https://yurihou.github.io/2023/12/18/QRZ.com-%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97.html)
   - [eQSL.cc](https://www.eqsl.cc/): An useful online logbook with shitty GUI.
 - HAM Mapper
   - [Maidenhead Grid Locator](https://www.f5len.org/tools/locator/): Maidenhead grid mapper. [OpenStreetMap](https://www.openstreetmap.org/) is used for this site, so this site is not available for Chinese mainland HAMs. [梅登黑德网格定位系统](http://sjzham.cn/grid/) can be used in Chinese mainland.
