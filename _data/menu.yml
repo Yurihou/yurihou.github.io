@@ -5,8 +5,7 @@ entries:
       show_more: true
       show_more_text: 更多文章 More...
       show_more_url: archive
-  - title: HAM 实用网站 HAM's Useful Websites
-    url: hamtools
+  - title: <a href='hamtools'>HAM 实用网站（中文）</a>, <a href='hamtools_cn'>HAM's Useful Websites (EN)</a>
   - title: <a href='temple'>HAM 赛博祠堂 HAM's Cyber Temple</a>, <a href='temple_copy'>请一个祠堂 Copy one</a>
 
   - title: 个人信息 About me
