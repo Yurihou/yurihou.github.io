@@ -13,7 +13,7 @@ title: HAM 常用工具
   - [DX Summit](http://www.dxsummit.fi/)：远征台信息报告，可以上传自己收到的稀有台（其实不稀有也能传）报告，并查看别的台上传的报告。
   - [QRZ.com](https://www.qrz.com/)：在线HAM数据库，给数据库内的HAM提供一个免费的网页供编辑，可以些一些个人的信息，比如邮寄地址、天馈设备之类的信息上去。也可以查找别人的相关信息，当然前提是对方也上传了。有个 [国区特供 QRZ.cn](http://www.qrz.cn/) ，似乎维护一般，反正我是不想用它。
 - 通联后
-  - [Logbook of the World](https://lotw.arrl.org/)：简称LoTW，美国无线电传播协会的官方日志系统，有一套有点的申请流程（教程随后更新）。
+  - [Logbook of the World](https://lotw.arrl.org/)：简称LoTW，美国无线电传播协会的官方日志系统。[LoTW申请流程](https://www.bilibili.com/read/cv21069343/)
   - [QRZ.com](https://www.qrz.com/)：QRZ.com 还有一套日志系统挺好用的。QRZ.com 注册账号不难，但是后面还需要有人把呼号添加进数据库才能正常使用功能。详见 [QRZ.com注册教程](https://yurihou.github.io/2023/12/18/QRZ.com-%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97.html)
   - [eQSL.cc](https://www.eqsl.cc/)：一款在线日志系统，日志本身挺好用，就是GUI有点难看。
 - HAM 使用的各种地图
