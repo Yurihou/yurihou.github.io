@@ -10,3 +10,6 @@ title: Ham's Cyber Temple
 - God of -5000: [BG7XWF](https://www.qrz.com/db/BG7XWF)
 - God of area outside Karman line: [BI4KZZ](https://www.qrz.com/db/BI4KZZ)
 - God of Ionosphere: [BI1NJK](https://www.qrz.com/db/BI1NJK)
+
+- A bottle of WD-40 for better propagation.
+![/pictures/WD-40.png](/pictures/WD-40.png)
