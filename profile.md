@@ -7,7 +7,7 @@ title: 个人简介 Profile
 
 我叫侯旭照，陕西人，1999年出生。清华大学电机系直博生，研究高压绝缘。
 
-My name is Hou Xuzhao. Born in Shannxi province, China in 1999. PhD student in Department of Electrical Engineering, Tsinghua University, major in High-Voltage Engineering.
+My name is Hou Xuzhao. Born in Shannxi province, China in 1999. PhD ~~student~~ candidate in Department of Electrical Engineering, Tsinghua University, major in High-Voltage Engineering.
 
 我是一个业余无线电爱好者，2018年拿到呼号BH9DWE，现在是清华大学业余电台的操作员之一。
 
