@@ -6,6 +6,7 @@ title: HAM 常用工具
 - 通联前
   - [Windy](https://www.windy.com/)：天气预报与气象云图。打雷时别操作，大风大雨时别野架。
   - [HF Propagation and Solar-Terrestrial Data](https://www.hamqsl.com/solar.html)：太阳活动与短波、VHF传播信息。其实很多时间短波通不到人不是因为传播不好，而是因为天线设备太菜了。
+  - [K5Web](https://k5.vicicode.com/)：UV-K5/K6 写频网站（其实是一个套壳chirp，网页调用串口），连接写频线对K5进行写频，还有创意工坊，可安装一些第三方固件。[国内站](https://k5.vicicode.cn/)
 - 通联中
   - [PSK Reporter](https://www.pskreporter.info/)：数字模式监测站报告，可以用来查看都有哪些台站收到了你的数字信号，适用CW、FT8等模式。这个网站因为使用了Google的相关服务，以及一个被墙的前端库，所以国内网上不去。具体解决办法可以参考[本站的 PSK Reporter 国内换源教程](https://yurihou.github.io/2024/05/08/PSK-Reporter-%E5%9B%BD%E5%86%85%E6%8D%A2%E6%BA%90%E6%95%99%E7%A8%8B.html)。
   - [Reverse Beacon Network](https://www.reversebeacon.net/)：简称RBN，CW信号监测台。
