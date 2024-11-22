@@ -6,6 +6,7 @@ title: Ham's Useful Websites
 - Before operation
   - [Windy](https://www.windy.com/): Weather forecast maps. Do not use antenna during thunder storm.
   - [HF Propagation and Solar-Terrestrial Data](https://www.hamqsl.com/solar.html): Looking for HF and 6m band propagation. But sometimes DX is not available is not caused by geomagnetic storm but due to poor antenna, environmental electromagnetic noise (EV charger besides) and QRP transmitters lol.
+  - [K5Web](https://k5.vicicode.com/)：Quansheng UV-K5/K6 frequency writter (just a chirp with web page, using local serial port to write to K5) with "Creativity Workshop", where a lot of third-party mod are in. 
 - During operation
   - [PSK Reporter](https://www.pskreporter.info/): Digital mode reporter site. Can be used to monitor how many HAM radio stations receive my, or other stations' digital signals, such as CW, FT8, etc. For Chinese mainland HAMs, not only Google service, but also a bootstrap CDN source (using for some theme) should be VPNed or changed. Change hosts file could be useful. I will upload the method in this site later. 
   - [Reverse Beacon Network](https://www.reversebeacon.net/): CW reporter site. Can be used to monitor how many HAM radio stations receive my, or other stations' CW signals.
