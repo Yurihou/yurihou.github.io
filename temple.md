@@ -13,3 +13,6 @@ title: Ham's Cyber Temple
 
 - A bottle of WD-40 for better propagation.
 ![/pictures/WD-40.png](/pictures/WD-40.png)
+
+- Keep retard FT8 operators away.
+![/pictures/sb_ft8.png](/pictures/sb_ft8.png)
