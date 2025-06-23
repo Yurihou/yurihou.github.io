@@ -11,8 +11,8 @@ title: Ham's Cyber Temple
 - Four "say" mantra. Speak using Sichuan dialect before satellite operation to avoid illegal crane radio:
   - 说那个 say that
   - 说啥子 say what
-  - 说你*** say you m**f**r
-  - 说英语草 say English f**k
+  - 说你\*\*\* say you m\*\*f\*\*r
+  - 说英语草 say English f\*\*k
 - Les grands SOLIELS for preventing geomagnetic storm and bad HF propagation: [1](https://en.wikipedia.org/wiki/Kim_Jong_Un) [2](https://en.wikipedia.org/wiki/Park_Chung_Hee) [3](https://en.wikipedia.org/wiki/Donald_Trump) [4](https://www.qrz.com/db/BI1FJK)
 
 - A bottle of WD-40 for better propagation.
