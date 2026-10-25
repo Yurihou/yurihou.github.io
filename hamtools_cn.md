@@ -18,7 +18,7 @@ title: HAM 常用工具
   - [QRZ.com](https://www.qrz.com/)：QRZ.com 还有一套日志系统挺好用的。QRZ.com 注册账号不难，但是后面还需要有人把呼号添加进数据库才能正常使用功能。详见 [QRZ.com注册教程](https://yurihou.github.io/2023/12/18/QRZ.com-%E7%BD%91%E7%AB%99%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97.html)
   - [eQSL.cc](https://www.eqsl.cc/)：一款在线日志系统，日志本身挺好用，就是GUI有点难看。
 - HAM 使用的各种地图
-  - [Maidenhead Grid Locator](https://www.f5len.org/tools/locator/)梅登黑德网格地图。因为使用了[OpenStreetMap](https://www.openstreetmap.org/) ，网站原版国内不太好用。这里有个国内特供版 [梅登黑德网格定位系统](http://sjzham.cn/grid/) 挺好用的。
+  - [Maidenhead Grid Locator](https://www.f5len.org/tools/locator/)梅登黑德网格地图。因为使用了[OpenStreetMap](https://www.openstreetmap.org/) ，网站原版国内不太好用。~~这里有个国内特供版 [梅登黑德网格定位系统](http://sjzham.cn/grid/) 挺好用的。~~ 这个网站挂了……这个协会似乎都挂了……
   - [Great Circle Mapper](https://ns6t.net/azimuth/azimuth.html)：大圆地图，确定定向天线的指向比较好用。冷知识，北京打美国，天线应当指向正北而不是正东。
   - [GridTraker](https://gridtracker.org/)：可以配合[WSJT-X](https://wsjt.sourceforge.io/wsjtx.html), [JTDX](https://sourceforge.net/projects/jtdx/), [JTDX 国区特供版](https://forum.hamcq.cn/d/318) 等软件，显示正在呼叫的，或者以前通联过的FT8台的台站位置。
 - HAM DIY
